@@ -25,3 +25,4 @@ switch (opcion) {
         
 
 }
+/* codigo para encontrar areas de figuras*/
